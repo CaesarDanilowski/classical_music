@@ -1,0 +1,12 @@
+<li><a href="#strauss">Richard Strauss</a></li>
+                        <li><a href="#haydn">Joseph Haydn</a></li>
+                        <li><a href="#chopin">Fryderyk Chopin</a></li>
+                        <li><a href="#motzart">Wolfgang Amadeusz Motzart</a></li>
+                        <li><a href="#bach">Johann Sebastian Bach</a></li>
+                        <li><a href="#vivaldi">Antonio Vivaldi</a></li>
+                        <li><a href="#beethoven">Ludwig van Beethoven</a></li>
+                        <li><a href="#chopin">Fryderyk Chopin</a></li>
+                        <li><a href="#moniuszko">Stanis³aw Moniuszko</a></li>
+                        <li><a href="#czajkowski">Piotr Czajkowski</a></li>
+
+https://www.digitalo.pl/wiadomosc/muzyka-klasyczna-jak-zaczac-ktora-bedzie-najlepsza/5037/
